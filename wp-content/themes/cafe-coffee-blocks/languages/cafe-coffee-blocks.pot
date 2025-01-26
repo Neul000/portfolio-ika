@@ -1,0 +1,1154 @@
+# Copyright (C) 2025 WP Radiant
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cafe Coffee Blocks 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cafe-coffee-blocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-03T18:00:48+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: cafe-coffee-blocks\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Cafe Coffee Blocks"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/products/free-coffee-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Cafe Coffee Blocks WordPress Theme is a sleek, modern template specifically designed for cafes, coffee shops, and cosy coffee houses looking to create an inviting online presence. It’s ideal for showcasing cafe menus and promoting specialty coffee drinks such as cafe espresso, cafe latte, cold brew coffee, and iced coffee. Café owners can also feature their gourmet food offerings like pastries, sandwiches, and brunch items. The theme is highly customizable, allowing businesses to highlight their freshly brewed coffee, single-origin blends, and cafe coffee deals through visually appealing, engaging layouts. Designed to evoke a cosy, welcoming atmosphere, the theme includes sections dedicated to cafe seating, coffee shop decor, and overall cafe ambience. This makes it a great fit for local coffee shops aiming to draw customers with a comfortable setting and enticing visuals. Additional features support the promotion of coffee loyalty programs, online ordering options for takeout or drive-thru, and even customer-friendly services like cafe wifi for remote work or studying. With its responsive and user-friendly design, the Cafe Coffee Blocks Theme ensures an excellent browsing experience on any device, helping cafes attract new customers and boost online engagement. Café owners can effectively showcase their signature drinks, gourmet food items, and unique ambience, establishing their brand as a favourite local spot."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/footer-default.php:91
+msgid "WP Radiant"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/"
+msgstr ""
+
+#: get-started/getstart.php:8
+msgid "https://wordpress.org/support/theme/cafe-coffee-blocks/"
+msgstr ""
+
+#: get-started/getstart.php:9
+msgid "https://wordpress.org/support/theme/cafe-coffee-blocks/reviews/#new-post"
+msgstr ""
+
+#: get-started/getstart.php:10
+#: get-started/notice.php:3
+msgid "https://www.wpradiant.net/products/cafe-wordpress-theme"
+msgstr ""
+
+#: get-started/getstart.php:11
+msgid "https://preview.wpradiant.net/tutorial/cafe-coffee-blocks-free/"
+msgstr ""
+
+#: get-started/getstart.php:12
+msgid "https://preview.wpradiant.net/cafe-coffee-blocks/"
+msgstr ""
+
+#: get-started/getstart.php:13
+msgid "https://preview.wpradiant.net/tutorial/cafe-coffee-blocks-pro/"
+msgstr ""
+
+#: get-started/getstart.php:57
+msgid "Buy Now"
+msgstr ""
+
+#: get-started/getstart.php:60
+msgid "Demo"
+msgstr ""
+
+#: get-started/getstart.php:63
+msgid "Documentation"
+msgstr ""
+
+#: get-started/getstart.php:84
+msgid "Secondary menu"
+msgstr ""
+
+#: get-started/getstart.php:85
+msgid "About"
+msgstr ""
+
+#: get-started/getstart.php:87
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:89
+msgid "Changelog"
+msgstr ""
+
+#: get-started/getstart.php:110
+msgid "Free Theme Directives"
+msgstr ""
+
+#: get-started/getstart.php:113
+msgid "This article will walk you through the different phases of setting up and handling your WordPress website."
+msgstr ""
+
+#: get-started/getstart.php:117
+msgid "Free Documentation"
+msgstr ""
+
+#: get-started/getstart.php:124
+msgid "Full Site Editing"
+msgstr ""
+
+#: get-started/getstart.php:127
+msgid "We have used Full Site Editing which will help you preview your changes live and fast."
+msgstr ""
+
+#: get-started/getstart.php:131
+msgid "Use Site Editor"
+msgstr ""
+
+#: get-started/getstart.php:138
+msgid "Leave us a review"
+msgstr ""
+
+#: get-started/getstart.php:140
+msgid "We would love to hear your feedback."
+msgstr ""
+
+#: get-started/getstart.php:144
+msgid "Review"
+msgstr ""
+
+#: get-started/getstart.php:152
+msgid "Help &amp; Support"
+msgstr ""
+
+#: get-started/getstart.php:155
+msgid "If you have any question/feedback regarding theme, please post in our official support forum."
+msgstr ""
+
+#: get-started/getstart.php:159
+msgid "Get Support"
+msgstr ""
+
+#: get-started/getstart.php:177
+msgid "Want to know whats been happening with the latest changes?"
+msgstr ""
+
+#: get-started/getstart.php:238
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:242
+msgid "Theme Features"
+msgstr ""
+
+#: get-started/getstart.php:243
+msgid "Free Theme"
+msgstr ""
+
+#: get-started/getstart.php:244
+msgid "Pro Theme"
+msgstr ""
+
+#: get-started/getstart.php:249
+msgid "Responsive Design"
+msgstr ""
+
+#: get-started/getstart.php:254
+msgid "Painless Setup"
+msgstr ""
+
+#: get-started/getstart.php:259
+msgid "Color Options"
+msgstr ""
+
+#: get-started/getstart.php:264
+msgid "Premium site demo"
+msgstr ""
+
+#: get-started/getstart.php:269
+msgid "Multiple Block Layout"
+msgstr ""
+
+#: get-started/getstart.php:274
+msgid "Premium Patterns"
+msgstr ""
+
+#: get-started/getstart.php:279
+msgid "Multiple Fonts"
+msgstr ""
+
+#: get-started/getstart.php:284
+msgid "Slider Block"
+msgstr ""
+
+#: get-started/getstart.php:289
+msgid "Post Listing Block"
+msgstr ""
+
+#: get-started/getstart.php:294
+msgid "WooCommerce Filter Block"
+msgstr ""
+
+#: get-started/getstart.php:299
+msgid "Gallery Block"
+msgstr ""
+
+#: get-started/getstart.php:304
+msgid "Post Carousel Block"
+msgstr ""
+
+#: get-started/getstart.php:311
+msgid "Buy It Now"
+msgstr ""
+
+#: get-started/notice.php:5
+msgid "https://www.wpradiant.net/products/wordpress-theme-bundle"
+msgstr ""
+
+#: get-started/notice.php:47
+msgid "Welcome to Cafe Coffee Blocks"
+msgstr ""
+
+#: get-started/notice.php:48
+msgid "Enhance Your Website Development with Radiant Blocks!!"
+msgstr ""
+
+#: get-started/notice.php:51
+msgid "Effortlessly craft websites for any niche with Radiant Blocks! Experience seamless functionality and stunning responsiveness as you enhance your digital presence with Block WordPress Themes. Start building your ideal website today!"
+msgstr ""
+
+#: get-started/notice.php:53
+msgid "Getting started"
+msgstr ""
+
+#: get-started/notice.php:55
+msgid "Buy Now "
+msgstr ""
+
+#: get-started/notice.php:57
+msgid "Get Bundle"
+msgstr ""
+
+#: inc/block-pattern.php:61
+msgid "Cafe Coffee Blocks Patterns"
+msgstr ""
+
+#: inc/block-style.php:28
+msgid "Borders"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Cafe Coffee Blocks Pro"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:63
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:68
+msgid "Gmap – Google Map"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:73
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm/plugin-activation.php:78
+msgid "Date Time Picker for Contact Form 7"
+msgstr ""
+
+#: patterns/404-page.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:11
+msgid "404 Page"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:25
+msgid "Savor Every Sip, Relish Every Bite – Your Daily Retreat Awaits!"
+msgstr ""
+
+#: patterns/banner.php:29
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text."
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:17
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:21
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/footer-default.php:37
+msgid "Menu"
+msgstr ""
+
+#: patterns/footer-default.php:53
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer-default.php:69
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:73
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:77
+msgid "+1 (143) 456-7897"
+msgstr ""
+
+#: patterns/footer-default.php:81
+msgid "123 Glassford Street New York, USA"
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid "Coffee WordPress Theme "
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:91
+msgid "WordPress"
+msgstr ""
+
+#: patterns/form-section.php
+msgctxt "Pattern title"
+msgid "Form Section"
+msgstr ""
+
+#: patterns/form-section.php:16
+#: patterns/form-section.php:28
+msgid "Form Section"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:11
+msgid "Header Default"
+msgstr ""
+
+#: patterns/places-section.php
+msgctxt "Pattern title"
+msgid "Places Section"
+msgstr ""
+
+#: patterns/places-section.php:17
+msgid "Places Section"
+msgstr ""
+
+#: patterns/places-section.php:26
+#: patterns/places-section.php:140
+msgid "Our Places"
+msgstr ""
+
+#: patterns/places-section.php:30
+#: patterns/places-section.php:144
+msgid "Cozy corners, vibrant vibes."
+msgstr ""
+
+#: patterns/places-section.php:50
+#: patterns/places-section.php:164
+msgid "Magneto Chamber"
+msgstr ""
+
+#: patterns/places-section.php:54
+#: patterns/places-section.php:168
+msgid "Williams Tower, 41st Floor, 2800 Post Oak Boulevard Houston, TX 77056"
+msgstr ""
+
+#: patterns/places-section.php:59
+#: patterns/places-section.php:83
+#: patterns/places-section.php:107
+#: patterns/places-section.php:173
+#: patterns/places-section.php:197
+#: patterns/places-section.php:221
+msgid "View More"
+msgstr ""
+
+#: patterns/places-section.php:74
+#: patterns/places-section.php:188
+msgid "Marriot Bonvoy"
+msgstr ""
+
+#: patterns/places-section.php:78
+#: patterns/places-section.php:192
+msgid "1717 Pennsylvania Avenue NW, 10th Floor Washington, D.C. 20006"
+msgstr ""
+
+#: patterns/places-section.php:98
+#: patterns/places-section.php:212
+msgid "Cafe Aura"
+msgstr ""
+
+#: patterns/places-section.php:102
+#: patterns/places-section.php:216
+msgid "301 Portola Street john Building San Francisco California 770147"
+msgstr ""
+
+#: patterns/places-section.php:115
+#: patterns/places-section.php:229
+msgid "Load More"
+msgstr ""
+
+#: patterns/places-section.php:131
+msgid "Product Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Sidebar Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:55
+msgid "Archieve"
+msgstr ""
+
+#: patterns/primary-sidebar.php:67
+msgid "Category"
+msgstr ""
+
+#: patterns/primary-sidebar.php:79
+msgid "Social"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search Page"
+msgstr ""
+
+#: patterns/search.php:11
+msgid "Search Page"
+msgstr ""
+
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secaccent"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Thirdaccent"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourground"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secbackground"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "primary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/dark-brown.json
+#: styles/green.json
+#: styles/light-brown.json
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr ""
+
+#: styles/dark-brown.json
+msgctxt "Style variation name"
+msgid "Dark Brown"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/light-brown.json
+msgctxt "Style variation name"
+msgid "Light Brown"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar Products"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "PT-Serif"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
